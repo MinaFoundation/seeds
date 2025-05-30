@@ -1,3 +1,6 @@
+> ⚠️ **This repository is no longer maintained.**
+> Please refer to the actively maintained version at [https://github.com/o1-labs/seeds](https://github.com/o1-labs/seeds).
+
 # Mina Foundation Seed Lists
 
 This repository contains the seed lists published by Mina Foundation.
